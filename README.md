@@ -1,5 +1,4 @@
 # workshop 2
-this is done in the second session of github workshop
 ## aai everybody
 *github workshop*
 **second day**
@@ -14,5 +13,8 @@ this is done in the second session of github workshop
    2. ne
    3. hit
    4. ah
- [Google](https://www.google.com/)
  
+[Google](https://www.google.com/)
+
+![akhil](
+ https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK0ZQgIWu5eCHHaSU8dc2T8DDPtzwKToizkg&usqp=CAU)
